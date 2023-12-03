@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: About Me:
+### About Me:
 
 I am a Frontend Developer. I am inspired by challenging projects and collaborative teamwork where I can bring my input and realize creative ideas. My main goal is to create outstanding web projects that are not only functional but also visually appealing. I am committed to continuous self-improvement and learning, always striving to stay up to date with the latest technology trends and best practices in web development. Besides work, I am passionate about traveling, cars, fishing and playing guitar. I believe that my passion and commitment to excellence contribute to the success of the web space.
 
@@ -10,7 +10,7 @@ I am a Frontend Developer. I am inspired by challenging projects and collaborati
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-:mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:citomax7196@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-synytskyi-27a0a7222/) [![Xing Badge](https://img.shields.io/badge/-Xing-green?style=flat&logo=Xing&logoColor=white)](https://www.xing.com/profile/Maksym_Synytskyi/cv)
+How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:citomax7196@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-synytskyi-27a0a7222/) [![Xing Badge](https://img.shields.io/badge/-Xing-green?style=flat&logo=Xing&logoColor=white)](https://www.xing.com/profile/Maksym_Synytskyi/cv)
 
 ---
 
