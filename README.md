@@ -4,7 +4,7 @@
 
 ### About Me:
 
-I am a Frontend Developer. I am inspired by challenging projects and collaborative teamwork where I can bring my input and realize creative ideas. My main goal is to create outstanding web projects that are not only functional but also visually appealing. I am committed to continuous self-improvement and learning, always striving to stay up to date with the latest technology trends and best practices in web development. Besides work, I am passionate about traveling, cars, fishing and playing guitar. I believe that my passion and commitment to excellence contribute to the success of the web space.
+I am a Web Developer. I am inspired by challenging projects and collaborative teamwork where I can bring my input and realize creative ideas. My main goal is to create outstanding web projects that are not only functional but also visually appealing. I am committed to continuous self-improvement and learning, always striving to stay up to date with the latest technology trends and best practices in web development. Besides work, I am passionate about traveling, cars, fishing and playing guitar. I believe that my passion and commitment to excellence contribute to the success of the web space.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
